@@ -17,6 +17,7 @@
 这个软件并不全都来自我的功劳，在此要感谢tohsakrat在github开源的brush-converter。我在此基础上做了一些功能添加和封装处理，有喜欢画画的程序员，或者喜欢编程的画师的话，也请给这个repo点个star。
 
 github链接：https://github.com/tohsakrat/Brush-Converter
+
 我自己的：（其实不看也可以啦...）https://github.com/Xinyisun-creator/prct2sai/
 
 界面和功能都很简陋，之后看需求再看是否需要添加内容吧！
